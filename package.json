@@ -2,7 +2,7 @@
   "private": true,
   "name": "personal-portfolio",
   "version": "1.0.0",
-  "homepage": "https://adarsh2379.github.io/portfolio",
+  "homepage": "https://adarsh2379.github.io",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
